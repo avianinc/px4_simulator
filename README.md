@@ -9,3 +9,4 @@ To run:
 4. Open a second terminal
 5. cd /home/user
 6. ./QGroundControl.AppImage --appimage-extract-and-run
+....

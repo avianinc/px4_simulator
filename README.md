@@ -8,11 +8,11 @@ password: password
 2) Open the VNC server from Guac...
 
 3) To run the simulator:
-a. Open a terminal
-b. cd into /home/user/PX4-Autopilot
-c. make px4_sitl gazebo # this take a while.. so get a beer
-d. Open a second terminal
-e. cd /home/user
-f. ./QGroundControl.AppImage --appimage-extract-and-run
+- Open a terminal
+- cd into /home/user/PX4-Autopilot
+- make px4_sitl gazebo # this take a while.. so get a beer
+- Open a second terminal
+- cd /home/user
+- ./QGroundControl.AppImage --appimage-extract-and-run
 
 Have fun...
